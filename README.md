@@ -6,7 +6,7 @@ My hobbies are:
 🎸 Music       
 🎮 Games       
 ♔  Chess         
-I'm also interested in PenTesting, ethical hacking, web vulnerabilities and Cyber Security in general, as those are subjects that I could use and take benefit from my skills.
+I'm also interested in PenTesting, Ethical Hacking, web vulnerabilities and CyberSec related topics in general, as those are subjects that I could use and take benefit from my skills.
 I am passionate about technologies and eager to learn new things! 
 
 
